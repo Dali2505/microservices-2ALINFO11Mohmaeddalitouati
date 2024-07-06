@@ -1,0 +1,10 @@
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\controller\OrderController.java
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\dto\InventoryResponse.java
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\dto\OrderLineItemsDto.java
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\model\OrderLineItems.java
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\dto\OrderRequest.java
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\model\Order.java
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\OrderServiceApplication.java
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\config\OrderConfig.java
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\service\OrderService.java
+C:\Users\Touati\Documents\Project Micro Service\ParentService\order-service\src\main\java\com\store\order\repository\OrderRepository.java
